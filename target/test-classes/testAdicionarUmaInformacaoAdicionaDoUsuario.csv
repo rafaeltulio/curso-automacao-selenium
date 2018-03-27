@@ -1,0 +1,4 @@
+testAdicionarUmaInformacaoAdicionaDoUsuario,login,senha,tipo,contato,mensagemEsperada,Duration(ms),Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",julio0001,123456,Phone,+55191674158,Your contact has been added!,2109.0,2109.0,2109.0,2109.0,2109.0
+"",julio0001,123456,Phone,+55191674159,Your contact has been added!,2202.0,2202.0,2202.0,2202.0,2202.0
+"",julio0001,123456,E-mail,rafaeltulio9@hotmail.com,Your contact has been added!,2302.0,2302.0,2302.0,2302.0,2302.0
